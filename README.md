@@ -14,12 +14,9 @@
 - ❓ Adoro tecnologia e inovação  
   
 
-- ⚡ Bora fazer muitos projetos!!!  
- 
-![](https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif) 
-
+- ⚡ Bora fazer muitos projetos!!!
+:blush:       
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -150,10 +147,15 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=giselecampi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=giselecampi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+![](https://media.tenor.com/0i8TCrriHLUAAAAd/developer-developers.gif)
+
