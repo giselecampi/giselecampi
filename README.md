@@ -15,7 +15,8 @@
   
 
 - ⚡ Bora fazer muitos projetos!!!  
-  
+ 
+![](https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif) 
 
 <br/>  
 
